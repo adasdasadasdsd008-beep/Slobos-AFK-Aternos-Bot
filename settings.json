@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ogdonuttsmp.aternos.me:63393",
+    "ip": "ogdonuttsmp.aternos.me",
     "port": 63393,
     "version": "",
     "try-creative": false
